@@ -1,0 +1,273 @@
+{
+  "name": "Taiwan 2068 Formoasa",
+  "version": "v0.1.1-rc2",
+  "started_utc": "2026-10-01T03:28:53.083690+00:00",
+  "elapsed_seconds": 12.812,
+  "bootstrap": "D:\\bes_cctv\\taroko-ue\\deploy\\package-taroko-rc2-20261001\\Windows\\Taipei2068.exe",
+  "arguments": [
+    "-dx12",
+    "-RenderOffscreen",
+    "-DUMPMOVIE",
+    "-ResX=960",
+    "-ResY=540",
+    "-Windowed",
+    "-unattended",
+    "-nosplash",
+    "-UserDir=D:/bes_cctv/taroko-ue/deploy/qa-rc2-shipping-20261001-032853/user/"
+  ],
+  "owned_processes": [
+    {
+      "pid": 7508,
+      "exe": "D:\\bes_cctv\\taroko-ue\\deploy\\package-taroko-rc2-20261001\\Windows\\Taipei2068.exe",
+      "create_time": 1790825333.0864713
+    },
+    {
+      "pid": 15456,
+      "exe": "D:\\bes_cctv\\taroko-ue\\deploy\\package-taroko-rc2-20261001\\Windows\\Taipei2068\\Binaries\\Win64\\Taipei2068-Win64-Shipping.exe",
+      "create_time": 1790825333.1723835
+    },
+    {
+      "pid": 17464,
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvmi.inf_amd64_5805ae90f9508f9c\\nvngx_update.exe",
+      "create_time": 1790825336.6850526
+    },
+    {
+      "pid": 17816,
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvmi.inf_amd64_5805ae90f9508f9c\\nvngx_update.exe",
+      "create_time": 1790825336.0506213
+    },
+    {
+      "pid": 18532,
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvmi.inf_amd64_5805ae90f9508f9c\\nvngx_update.exe",
+      "create_time": 1790825336.5159917
+    },
+    {
+      "pid": 20188,
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvmi.inf_amd64_5805ae90f9508f9c\\nvngx_update.exe",
+      "create_time": 1790825336.1012976
+    },
+    {
+      "pid": 23316,
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvmi.inf_amd64_5805ae90f9508f9c\\nvngx_update.exe",
+      "create_time": 1790825336.5207539
+    },
+    {
+      "pid": 25928,
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvmi.inf_amd64_5805ae90f9508f9c\\nvngx_update.exe",
+      "create_time": 1790825336.3001127
+    },
+    {
+      "pid": 26148,
+      "exe": "C:\\Windows\\System32\\conhost.exe",
+      "create_time": 1790825336.6962395
+    },
+    {
+      "pid": 26468,
+      "exe": "C:\\Windows\\System32\\conhost.exe",
+      "create_time": 1790825336.107159
+    },
+    {
+      "pid": 504,
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvmi.inf_amd64_5805ae90f9508f9c\\nvngx_update.exe",
+      "create_time": 1790825336.4375815
+    },
+    {
+      "pid": 1608,
+      "exe": "C:\\Windows\\System32\\conhost.exe",
+      "create_time": 1790825336.3080947
+    },
+    {
+      "pid": 6556,
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvmi.inf_amd64_5805ae90f9508f9c\\nvngx_update.exe",
+      "create_time": 1790825336.3081813
+    },
+    {
+      "pid": 7064,
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvmi.inf_amd64_5805ae90f9508f9c\\nvngx_update.exe",
+      "create_time": 1790825336.5255413
+    },
+    {
+      "pid": 11184,
+      "exe": "C:\\Windows\\System32\\conhost.exe",
+      "create_time": 1790825336.5429325
+    },
+    {
+      "pid": 12416,
+      "exe": "C:\\Windows\\System32\\DriverStore\\FileRepository\\nvmi.inf_amd64_5805ae90f9508f9c\\nvngx_update.exe",
+      "create_time": 1790825336.3044217
+    },
+    {
+      "pid": 14412,
+      "exe": "C:\\Windows\\System32\\conhost.exe",
+      "create_time": 1790825336.4464965
+    },
+    {
+      "pid": 14848,
+      "exe": "C:\\Windows\\System32\\conhost.exe",
+      "create_time": 1790825336.5374289
+    },
+    {
+      "pid": 16544,
+      "exe": "C:\\Windows\\System32\\conhost.exe",
+      "create_time": 1790825336.5567536
+    },
+    {
+      "pid": 21636,
+      "exe": "C:\\Windows\\System32\\conhost.exe",
+      "create_time": 1790825336.313285
+    },
+    {
+      "pid": 25504,
+      "exe": "C:\\Windows\\System32\\conhost.exe",
+      "create_time": 1790825336.3120663
+    }
+  ],
+  "snapshots": [
+    {
+      "elapsed_seconds": 3.828,
+      "active_owned_pids": [
+        7508
+      ],
+      "frames": 0
+    },
+    {
+      "elapsed_seconds": 6.047,
+      "active_owned_pids": [
+        7508,
+        15456,
+        17464,
+        18532,
+        23316,
+        25928,
+        26148,
+        504,
+        1608,
+        6556,
+        7064,
+        11184,
+        12416,
+        14412,
+        14848,
+        16544,
+        21636,
+        25504
+      ],
+      "frames": 15
+    },
+    {
+      "elapsed_seconds": 8.187,
+      "active_owned_pids": [
+        7508,
+        15456,
+        17464,
+        18532,
+        23316,
+        25928,
+        26148,
+        504,
+        1608,
+        6556,
+        7064,
+        11184,
+        12416,
+        14412,
+        14848,
+        16544,
+        21636,
+        25504
+      ],
+      "frames": 41
+    },
+    {
+      "elapsed_seconds": 10.312,
+      "active_owned_pids": [
+        7508,
+        15456,
+        17464,
+        18532,
+        23316,
+        25928,
+        26148,
+        504,
+        1608,
+        6556,
+        7064,
+        11184,
+        12416,
+        14412,
+        14848,
+        16544,
+        21636,
+        25504
+      ],
+      "frames": 66
+    }
+  ],
+  "frame_count": 89,
+  "sample_frames": [
+    {
+      "path": "D:\\bes_cctv\\taroko-ue\\deploy\\qa-rc2-shipping-20261001-032853\\user\\Saved\\Screenshots\\Windows\\MovieFrame00000.png",
+      "bytes": 364104,
+      "width": 960,
+      "height": 540,
+      "mean_rgb": [
+        59.07378086419753,
+        57.96545524691358,
+        55.30568672839506
+      ],
+      "stddev_rgb": [
+        88.82589343312411,
+        86.34713575868012,
+        80.37529643057682
+      ],
+      "valid_nonblank": true
+    },
+    {
+      "path": "D:\\bes_cctv\\taroko-ue\\deploy\\qa-rc2-shipping-20261001-032853\\user\\Saved\\Screenshots\\Windows\\MovieFrame00044.png",
+      "bytes": 696571,
+      "width": 960,
+      "height": 540,
+      "mean_rgb": [
+        62.189047067901235,
+        59.093898533950615,
+        51.54959490740741
+      ],
+      "stddev_rgb": [
+        69.60915202153187,
+        64.7360580451799,
+        57.49092244024568
+      ],
+      "valid_nonblank": true
+    },
+    {
+      "path": "D:\\bes_cctv\\taroko-ue\\deploy\\qa-rc2-shipping-20261001-032853\\user\\Saved\\Screenshots\\Windows\\MovieFrame00088.png",
+      "bytes": 738241,
+      "width": 960,
+      "height": 540,
+      "mean_rgb": [
+        65.4432638888889,
+        62.35755015432099,
+        54.20903356481482
+      ],
+      "stddev_rgb": [
+        68.60125923529405,
+        63.72844692316765,
+        56.790411345461145
+      ],
+      "valid_nonblank": true
+    }
+  ],
+  "stop_reason": "captured_at_least_12_native_frames_after_12_seconds",
+  "shutdown": "runner terminates only its own PID tree after a bounded capture; this is not an exit-code assertion",
+  "passed_boot_render": true,
+  "limitations": [
+    "Shipping excludes DestinationSmoke; the 47-check route test was performed separately in Unreal Editor on 2026-09-30.",
+    "DX12 is requested explicitly. This captures Shipping GPU output, not a Shipping benchmark or a graphics-driver compatibility matrix.",
+    "Manual input and companion animation are not asserted by this bounded boot/render check."
+  ],
+  "test_hardware": {
+    "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU",
+    "gpu_driver": "32.0.16.1078",
+    "also_present": "Intel(R) Graphics"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Taiwan 2068 Formoasa",
+  "version": "v0.1.1-rc2",
+  "releaseDate": "2026-10-01",
+  "archive": "Taiwan-2068-Formoasa-Windows-v0.1.1-rc2.zip",
+  "archivePath": "D:\\bes_cctv\\taroko-ue\\deploy\\Taiwan-2068-Formoasa-Windows-v0.1.1-rc2.zip",
+  "sizeBytes": 1237099051,
+  "sha256": "32605506dfd3ffb4c77338099f45a25dc9a1899154dadd07fc57b05a0893bcc5",
+  "files": 33,
+  "uncompressedSizeBytes": 1611110084,
+  "launchPath": "Windows/Taipei2068.exe",
+  "sourceStaging": "D:\\bes_cctv\\taroko-ue\\deploy\\package-taroko-rc2-20261001\\Windows",
+  "distributableStaging": "D:\\bes_cctv\\taroko-ue\\deploy\\taiwan-2068-formoasa-windows-v0.1.1-rc2",
+  "zipIntegrity": "All entry CRCs passed",
+  "releasePublication": "Prepared locally; no upload or release publication performed by this task",
+  "validation": {
+    "structural": {
+      "passed": 17,
+      "total": 17,
+      "evidence": "docs/qa/v0.1.1-rc2/structural-check.txt"
+    },
+    "shippingBootRender": {
+      "passed": true,
+      "capturedFrames": 89,
+      "elapsedSeconds": 12.812,
+      "resolution": "960x540",
+      "requestedRhi": "DX12",
+      "evidence": "docs/qa/v0.1.1-rc2/shipping-boot-render.json",
+      "screenshot": "docs/qa/v0.1.1-rc2/shipping-frame.png"
+    },
+    "editorRoute": {
+      "passed": 47,
+      "total": 47,
+      "date": "2026-09-30",
+      "scope": "Unreal Editor Development -game; not a Shipping gameplay claim",
+      "evidence": "docs/qa/v0.1.1-rc2/editor-route-gameplay-20260930.json"
+    }
+  }
+}

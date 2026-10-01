@@ -1,0 +1,18 @@
+[PASS] file: Taipei2068.exe: present and nonempty
+[PASS] file: Taipei2068/Binaries/Win64/Taipei2068-Win64-Shipping.exe: present and nonempty
+[PASS] file: Taipei2068/Content/Paks/Taipei2068-Windows.pak: present and nonempty
+[PASS] file: Taipei2068/Content/Paks/Taipei2068-Windows.utoc: present and nonempty
+[PASS] file: Taipei2068/Content/Paks/Taipei2068-Windows.ucas: present and nonempty
+[PASS] file: Manifest_UFSFiles_Win64.txt: present and nonempty
+[PASS] UFS manifest entries: 2677 paths
+[PASS] packaged engine config: Taipei2068/Config/DefaultEngine.ini
+[PASS] packaged game config: Taipei2068/Config/DefaultGame.ini
+[PASS] Taiwan Hub map: Taipei2068/Content/TaiwanHub/Maps/TaiwanHub.umap
+[PASS] Taroko map: Taipei2068/Content/Taroko/Maps/Taroko.umap
+[PASS] Iris skeletal mesh: Taipei2068/Content/Taipei/Companion/SK_AdultCompanion.uasset
+[PASS] Iris idle animation: Taipei2068/Content/Taipei/Companion/A_AdultCompanion_Motion_Idle.uasset
+[PASS] Iris walk animation: Taipei2068/Content/Taipei/Companion/A_AdultCompanion_Motion_Walk.uasset
+[PASS] Iris run animation: Taipei2068/Content/Taipei/Companion/A_AdultCompanion_Motion_Run.uasset
+[PASS] Iris locomotion blend space: Taipei2068/Content/Taipei/Companion/BS_AdultCompanion.uasset
+[PASS] packaged startup map is Taroko: /Game/Taroko/Maps/Taroko
+Result: 17/17 checks passed.
